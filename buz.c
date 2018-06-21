@@ -1,4 +1,4 @@
-#define buz_tone 2
+ #define buz_tone 2
 void buz_do (void)
 {
 	uint8_t i = 0;
